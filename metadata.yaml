@@ -1,0 +1,33 @@
+_repo: Novelas-de-la-Costa-Azul_67137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+    - https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+description: ''
+gutenberg_issued: '2022-01-10'
+identifiers:
+  gutenberg: '67137'
+language: es
+pgterms:marc905: 20211002080256blascoibez
+pgterms:marc906: '1924'
+pgterms:marc907: es
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: Spain :Prometeo,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Novelas de la Costa Azul
+url: http://www.gutenberg.org/ebooks/67137
