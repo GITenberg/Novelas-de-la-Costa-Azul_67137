@@ -1,5 +1,8 @@
 _repo: Novelas-de-la-Costa-Azul_67137
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67137-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -14,6 +17,8 @@ creator:
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
     - https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67137#Novelas-de-la-Costa-Azul
 gutenberg_issued: '2022-01-10'
 identifiers:
   gutenberg: '67137'
